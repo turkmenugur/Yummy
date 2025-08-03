@@ -1,0 +1,279 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Yummy.WebUI
+build_property.RootNamespace = Yummy.WebUI
+build_property.ProjectDir = C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/About/AboutList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/About/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/About/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/AI/CreateRecipeWithOpenAI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUlcQ3JlYXRlUmVjaXBlV2l0aE9wZW5BSS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Category/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Chef/ChefList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxDaGVmTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Chef/CreateChef.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxDcmVhdGVDaGVmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Chef/UpdateChef.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxVcGRhdGVDaGVmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Contact/ContactList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Contact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDcmVhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Contact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Feature/CreateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxDcmVhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Feature/FeatureList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxGZWF0dXJlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Feature/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Gallery/ImageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxJbWFnZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Message/CreateMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxDcmVhdGVNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Message/MessageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Message/UpdateMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxVcGRhdGVNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Reservation/CreateReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQ3JlYXRlUmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Reservation/ReservationList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cUmVzZXJ2YXRpb25MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Reservation/UpdateReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cVXBkYXRlUmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_AboutDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0RGVmYXVsdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_ChefDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NoZWZEZWZhdWx0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_DefaultMenuCategoryComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRNZW51Q2F0ZWdvcnlDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_DefaultMenuProductComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRNZW51UHJvZHVjdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_DefaultMenuViewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRNZW51Vmlld0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_EventDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0V2ZW50RGVmYXVsdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_FeatureDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVEZWZhdWx0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_FooterDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckRlZmF1bHRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_HeadAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRBZG1pbkxheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_HeadDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWREZWZhdWx0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_NavbarAccountMenuAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckFjY291bnRNZW51QWRtaW5MYXlvdXRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_NavbarAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckFkbWluTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_NavbarDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckRlZmF1bHRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_NavbarFormInlineAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckZvcm1JbmxpbmVBZG1pbkxheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_NavbarMessageListAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhck1lc3NhZ2VMaXN0QWRtaW5MYXlvdXRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_NavbarNotificationAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhck5vdGlmaWNhdGlvbkFkbWluTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_RightSettingsAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1JpZ2h0U2V0dGluZ3NBZG1pbkxheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_ServiceDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlcnZpY2VEZWZhdWx0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_SidebarAdminLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NpZGViYXJBZG1pbkxheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Shared/Components/_TestimonialDefaultComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsRGVmYXVsdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Testimonial/CreateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcQ3JlYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Testimonial/TestimonialList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVGVzdGltb25pYWxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Testimonial/UpdateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVXBkYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/WhyChooseUs/CreateWhyChooseUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2h5Q2hvb3NlVXNcQ3JlYXRlV2h5Q2hvb3NlVXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/WhyChooseUs/UpdateWhyChooseUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2h5Q2hvb3NlVXNcVXBkYXRlV2h5Q2hvb3NlVXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/WhyChooseUs/WhyChooseUsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2h5Q2hvb3NlVXNcV2h5Q2hvb3NlVXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/YummyEvent/CreateYummyEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXlFdmVudFxDcmVhdGVZdW1teUV2ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/YummyEvent/UpdateYummyEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXlFdmVudFxVcGRhdGVZdW1teUV2ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/YummyEvent/YummyEventList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXlFdmVudFxZdW1teUV2ZW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6wtyxw4wtl
