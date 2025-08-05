@@ -118,6 +118,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxJbWFnZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Message/AnswerMessageWithOpenAI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxBbnN3ZXJNZXNzYWdlV2l0aE9wZW5BSS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Software/Web/Yummy/Yummy.WebApi/Yummy.WebUI/Views/Message/CreateMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxDcmVhdGVNZXNzYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
