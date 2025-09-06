@@ -60,5 +60,33 @@ namespace Yummy.WebApi.Controllers
             _context.SaveChanges();
             return Ok("Rezervasyon güncelleme işlemi başarılı");
         }
+
+        [HttpGet("GetTotalReservationCount")]
+        public IActionResult GetTotalReservationCount()
+        {
+            var value = _context.Reservations.Count();
+            return Ok(value);
+        }
+        
+        [HttpGet("GetTotalCustomerCount")]
+        public IActionResult GetTotalCustomerCount()
+        {
+            var value = _context.Reservations.Sum(x => x.CountOfPeople);
+            return Ok(value);
+        }
+        
+        [HttpGet("GetPendingReservations")]
+        public IActionResult GetPendingReservations()
+        {
+            var value = _context.Reservations.Count(x => x.ReservationStatus == "Onay Bekliyor");
+            return Ok(value);
+        }
+        
+        [HttpGet("GetApprovedReservations")]
+        public IActionResult GetApprovedReservations()
+        {
+            var value = _context.Reservations.Count(x => x.ReservationStatus == "Onaylandı");
+            return Ok(value);
+        }
     }
 }
