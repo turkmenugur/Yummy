@@ -428,11 +428,6 @@ C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\Yummy.WebApi.Mv
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\Yummy.WebApi.sourcelink.json
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets.development.json
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Yummy.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Yummy.WebApi.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Yummy.WebApi.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Yummy.WebApi.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\scopedcss\bundle\Yummy.WebApi.styles.css
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\Yummy.We.D3380017.Up2Date
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\Yummy.WebApi.dll
@@ -440,3 +435,12 @@ C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\refint\Yummy.We
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\Yummy.WebApi.pdb
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\Yummy.WebApi.genruntimeconfig.cache
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\ref\Yummy.WebApi.dll
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\bin\Debug\net8.0\Yummy.WebApi.staticwebassets.endpoints.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\swae.build.ex.cache
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

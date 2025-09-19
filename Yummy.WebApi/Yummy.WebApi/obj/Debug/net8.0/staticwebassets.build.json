@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "fPke8D5rpzT7FU/KQKMV3QdDbaAvU41Bcmp7D223xW4=",
-  "Source": "Yummy.WebApi",
-  "BasePath": "_content/Yummy.WebApi",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"Bx862UDJLvohswj14BHhtDDSOQAprMC2ygLYmfN5wJI=","Source":"Yummy.WebApi","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

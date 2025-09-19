@@ -84,11 +84,6 @@ C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\Yummy.WebUI.Razo
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\Yummy.WebUI.sourcelink.json
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets.development.json
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.Yummy.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.Yummy.WebUI.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Yummy.WebUI.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Yummy.WebUI.props
-C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\scopedcss\bundle\Yummy.WebUI.styles.css
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\scopedcss\projectbundle\Yummy.WebUI.bundle.scp.css
@@ -98,3 +93,11 @@ C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\refint\Yummy.Web
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\Yummy.WebUI.pdb
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\Yummy.WebUI.genruntimeconfig.cache
 C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\ref\Yummy.WebUI.dll
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\bin\Debug\net8.0\Yummy.WebUI.staticwebassets.endpoints.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Software\Web\Yummy\Yummy.WebApi\Yummy.WebUI\obj\Debug\net8.0\swae.build.ex.cache
