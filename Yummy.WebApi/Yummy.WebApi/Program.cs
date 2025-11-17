@@ -1,5 +1,6 @@
 using System.Reflection;
 using FluentValidation;
+using Microsoft.EntityFrameworkCore;
 using Yummy.WebApi.Context;
 using Yummy.WebApi.Entities;
 using Yummy.WebApi.ValidationRules;
@@ -7,6 +8,14 @@ using Yummy.WebApi.ValidationRules;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+// 1. appsettings.json dosyasından connection string'i oku.
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+// 2. DbContext'i bu connection string ile birlikte servislere ekle.
+builder.Services.AddDbContext<ApiContext>(options =>
+    options.UseSqlServer(connectionString)
+);
 
 builder.Services.AddDbContext<ApiContext>();
 builder.Services.AddScoped<IValidator<Product>, ProductValidator>();

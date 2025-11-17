@@ -296,6 +296,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Yummy.WebApi.Controllers.EmployeeTasksController",
+    "Method": "EmployeeTaskList",
+    "RelativePath": "api/EmployeeTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.EmployeeTasksController",
+    "Method": "CreateEmployeeTask",
+    "RelativePath": "api/EmployeeTasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmployeeTask",
+        "Type": "Yummy.WebApi.Entities.EmployeeTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.EmployeeTasksController",
+    "Method": "DeleteEmployeeTask",
+    "RelativePath": "api/EmployeeTasks",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.EmployeeTasksController",
+    "Method": "UpdateEmployeeTask",
+    "RelativePath": "api/EmployeeTasks",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmployeeTask",
+        "Type": "Yummy.WebApi.Entities.EmployeeTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.EmployeeTasksController",
+    "Method": "GetEmployeeTask",
+    "RelativePath": "api/EmployeeTasks/GetEmployeeTask",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Yummy.WebApi.Controllers.FeaturesController",
     "Method": "FeatureList",
     "RelativePath": "api/Features",
@@ -897,6 +971,46 @@
         "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.StatisticsController",
+    "Method": "ChefCount",
+    "RelativePath": "api/Statistics/ChefCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.StatisticsController",
+    "Method": "ProductCount",
+    "RelativePath": "api/Statistics/ProductCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.StatisticsController",
+    "Method": "ReservationCount",
+    "RelativePath": "api/Statistics/ReservationCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yummy.WebApi.Controllers.StatisticsController",
+    "Method": "TotalGuestCount",
+    "RelativePath": "api/Statistics/TotalGuestCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

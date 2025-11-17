@@ -17,7 +17,7 @@ public class _ServiceDefaultComponentPartial : ViewComponent
     public async Task<IViewComponentResult> InvokeAsync()
     {
         var client = _httpClientFactory.CreateClient();
-        var responseMessage = await client.GetAsync($"http://localhost:5238/api/Services/"); //istekte bulunacağımız adresi yazıyoruz
+        var responseMessage = await client.GetAsync($"http://localhost:5238/api/Services/");
         if (responseMessage.IsSuccessStatusCode)
         {
             var jsonData = await responseMessage.Content.ReadAsStringAsync();

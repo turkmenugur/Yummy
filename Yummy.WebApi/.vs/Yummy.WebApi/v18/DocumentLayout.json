@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software\\Web\\Yummy\\Yummy.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156EF6BB-4EAA-48DF-AC84-9D5F480BC433}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\software\\web\\yummy\\yummy.webapi\\yummy.webapi\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156EF6BB-4EAA-48DF-AC84-9D5F480BC433}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156EF6BB-4EAA-48DF-AC84-9D5F480BC433}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\software\\web\\yummy\\yummy.webapi\\yummy.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{156EF6BB-4EAA-48DF-AC84-9D5F480BC433}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156EF6BB-4EAA-48DF-AC84-9D5F480BC433}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\software\\web\\yummy\\yummy.webapi\\yummy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156EF6BB-4EAA-48DF-AC84-9D5F480BC433}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Software\\Web\\Yummy\\Yummy.WebApi\\Yummy.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Yummy.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Software\\Web\\Yummy\\Yummy.WebApi\\Yummy.WebApi\\appsettings.json",
+              "RelativeToolTip": "Yummy.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T08:32:24.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Software\\Web\\Yummy\\Yummy.WebApi\\Yummy.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Yummy.WebApi\\Program.cs",
+              "ToolTip": "C:\\Software\\Web\\Yummy\\Yummy.WebApi\\Yummy.WebApi\\Program.cs",
+              "RelativeToolTip": "Yummy.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:32:08.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Software\\Web\\Yummy\\Yummy.WebApi\\Yummy.WebApi\\Context\\ApiContext.cs",
+              "RelativeDocumentMoniker": "Yummy.WebApi\\Context\\ApiContext.cs",
+              "ToolTip": "C:\\Software\\Web\\Yummy\\Yummy.WebApi\\Yummy.WebApi\\Context\\ApiContext.cs",
+              "RelativeToolTip": "Yummy.WebApi\\Context\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:32:04.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
